@@ -34,12 +34,12 @@ export default function Navbar() {
           >
             Market
           </Link>
-          <a
+          <Link
             href="/new-product"
             className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-4"
           >
             New Product
-          </a>
+          </Link>
         </div>
       </div>
     </nav>
