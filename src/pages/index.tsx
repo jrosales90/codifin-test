@@ -75,7 +75,7 @@ export default function Home() {
             })}
         </div>
       </div>
-      <div className="absolute right-10 bottom-10">
+      <div className="fixed right-10 bottom-10">
         <span className="absolute -top-5 -right-3 w-10 bg-blue-100 rounded-full text-center p-2">
           {basketTotal}
         </span>
